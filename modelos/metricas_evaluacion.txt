@@ -1,0 +1,21 @@
+Registros usados: 50
+Participantes: 5
+Entrenamiento: 40 registros
+Prueba: 10 registros
+Accuracy: 0.9000
+
+                      precision    recall  f1-score   support
+
+No apta / perturbada       0.83      1.00      0.91         5
+      Apta / estable       1.00      0.80      0.89         5
+
+            accuracy                           0.90        10
+           macro avg       0.92      0.90      0.90        10
+        weighted avg       0.92      0.90      0.90        10
+
+
+Importancia de variables:
+dc_mean: 0.0403
+ac_amplitude: 0.8947
+ac_std: 0.0650
+diff_std: 0.0000
