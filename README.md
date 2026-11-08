@@ -29,7 +29,6 @@ Este desarrollo constituye una primera etapa del proyecto de Instrumentación El
 - `python/`: adquisición, comparación, procesamiento y clasificación.
 - `datos/`: organización de los datos experimentales.
 - `modelos/`: modelo entrenado, gráficos y métricas.
-- `.gitignore`: archivos excluidos del seguimiento de Git.
 
 ## 5. Instalación
 
